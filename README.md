@@ -1,2 +1,2 @@
 # web-route-easy
-This project is a simple web application created with Flutter, designed to demonstrate the implementation of an easy and efficient routing process. Go_router version 7.1.1 provides the basis and from there some custom template classes have been created to optimise the workflow.
+This project is a simple web application created with Flutter, designed to demonstrate the implementation of an easy and efficient routing process. Go_router version 7.1.1 provides the basis and from there some custom template classes have been created to optimise the workflow. The goal of this repository is to provide a practical and well-structured example of how routing can be organised in a Flutter application for future use.
