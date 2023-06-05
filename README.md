@@ -59,5 +59,5 @@ The `MenuItem` class represents a single menu item, and contains the data necess
 
 ## Sample 
 <p float="left">
-<img src="https://github.com/rodri2d2/FlutterMovieApp/blob/develop/gifs/upToNow.gif" width="200" />
+<img src="(https://github.com/rodri2d2/FlutterMovieApp/blob/develop/gifs/upToNow.gif)" width="400" />
 <br />
